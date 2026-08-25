@@ -20,3 +20,11 @@
 |Animais|Nome do Animal|varchar|40|Nome do Animal| 
 |Animais|Raca|varchar|40|Raca do animal|
 |Animais|Sexo|varchar|1|Sexo do animal|
+
+[Animais](./Animais-Veterinario.csv)
+<br>
+[Consultas](./Consultas-Veterinario.csv)
+<br>
+[Donos](./Donos-Veterinario.csv)
+<br>
+[Dados](./Dicionario-de-dados-Veterinario.csv)
