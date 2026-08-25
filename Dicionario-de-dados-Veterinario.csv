@@ -1,5 +1,5 @@
 Dicionario de Dados;;;;
-Entidade;Atributo;Tipo;Tamanho;Descrição
+Entidade;Atributo;Tipo;Tamanho;Descricao
 Dono;id;int;9;id do dono
 Dono;Nome;varchar;40;Nome do dono
 Dono;CPF;int;11;CPF do dono
@@ -10,5 +10,5 @@ Consultas;Motivo;varchar;200;Motivo da consulta
 Consultas;Valor;int;9;Valor da consulta
 Animais;id;int;9;id do animal
 Animais;Nome do Animal;varchar;40;Nome do Animal 
-Animais;Raça;varchar;40;Raça do animal
+Animais;Raca;varchar;40;Raca do animal
 Animais;Sexo;varchar;1;Sexo do animal
